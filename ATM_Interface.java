@@ -126,7 +126,7 @@ public void transfer(){
         }
     }
 }
-public class AtmInterface{
+public class Atm_Interface{
     public static int takeIntegerInput(int limit){
         int input = 0;
         boolean flag = false;
